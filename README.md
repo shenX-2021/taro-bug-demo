@@ -10,4 +10,4 @@ npm run dev:h5
 
 不稳定重现，无法重现就新开标签页再来一次
 
-<a href="https://github.com/gxsandzxl/taro-bug-demo/src/pages/somePage/somePage.jsx">代码导航</a>
+<a href="https://github.com/gxsandzxl/taro-bug-demo/blob/master/src/pages/somePage/somePage.jsx">代码导航</a>
